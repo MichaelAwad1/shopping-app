@@ -1,8 +1,10 @@
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/model/Order.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/service/OrderService.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/model/OrderLineItems.java
+/Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/config/WebClientConfig.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/controller/OrderController.java
+/Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/dto/InventoryResponse.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/dto/OrderLineItemsDto.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/repository/OrderRepository.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/order-service/src/main/java/com/example/orderservice/dto/OrderRequest.java

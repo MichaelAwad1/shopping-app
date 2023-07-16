@@ -3,3 +3,4 @@
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/inventory-service/src/main/java/com/example/inventoryservice/controller/InventoryController.java
 /Users/michaelawad/Personal-Work/springBoot/shopping-app/inventory-service/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java
+/Users/michaelawad/Personal-Work/springBoot/shopping-app/inventory-service/src/main/java/com/example/inventoryservice/dto/InventoryResponse.java
